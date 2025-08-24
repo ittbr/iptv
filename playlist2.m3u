@@ -60,8 +60,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="ANTV.IPTV" tvg-name="ANTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-http://203.77.246.2:443/udp/239.1.1.104:5000
+https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
