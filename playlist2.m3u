@@ -218,7 +218,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&userid=lite&
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News", Fox News
 #https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
-http://143.244.60.30/FOX_EAST/index.m3u8
+http://167.114.102.27/live/TQR9OdpPCnb46xhsgh7_Ew/1455736320/b199b33264504f9191862ce605f6754a.m3u8
 
 
 
